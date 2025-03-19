@@ -1,5 +1,0 @@
-1- what do you eat now?
-2 - Which do you prefer, PHP or JS?
-3 - I want to sleeping in the evening
-4 - We want eat rice and beans with meat for lunch
-5 - I don't want drink water now, but i want drink it in 5 minutes
